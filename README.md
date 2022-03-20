@@ -1,4 +1,4 @@
-## Building the Docker Container ##
+#### Building the Docker Container ##
 
 ```
 $ docker build -f Dockerfile -t $DOCKER_USER_ID/sentiment-analysis-logic .
